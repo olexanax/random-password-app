@@ -1,0 +1,27 @@
+.wrapper{
+  margin:0 auto;
+  width: 500px;
+  height:  400px;
+  border: 1px solid #000;
+  background-color: grey;
+}
+.wrapper div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px auto;
+  height:  50px;
+  width: 400px;
+  background-color:#000;
+}
+.password{
+  font-weight: 700;
+  letter-spacing:  5px;
+  color: lime;
+}
+.btn{
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  margin: 20px;
+}
